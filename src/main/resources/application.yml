@@ -1,6 +1,7 @@
 server:
   servlet:
     context-path: /formlogin
+    register-default-servlet: true
 
 spring:
   mvc:
